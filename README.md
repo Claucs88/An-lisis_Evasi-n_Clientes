@@ -28,7 +28,7 @@ Se construyó un **pipeline de Machine Learning** que incluye preprocesamiento, 
 
 ---
 
-##  Resultados principales
+##  Principales Resultados
 - **Regresión Logística**: Accuracy = 82.8%, desempeño balanceado, útil como modelo interpretable.
 - **Random Forest**: Accuracy = 84.4%, mejor recall en clientes que cancelan → modelo recomendado para despliegue.
 - **Factores de mayor riesgo de churn**:
@@ -54,6 +54,6 @@ Se construyó un **pipeline de Machine Learning** que incluye preprocesamiento, 
 ---
 
 ##  Autora
-Proyecto desarrollado por **Claudia Correa**, Ingeniera Comercial
+Proyecto desarrollado por **Claudia Correa**, Ingeniera Comercial.
 **Linkedin:** [https://www.linkedin.com/in/claudia-correa-sanchez/]  
 
