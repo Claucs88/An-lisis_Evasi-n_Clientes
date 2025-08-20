@@ -1,5 +1,5 @@
 
-#  Predicción de Cancelación de Clientes (Churn) – Telecom X
+#  **Predicción de Cancelación de Clientes (Churn) – Telecom X**
 
 ##  Descripción
 Este proyecto tiene como objetivo predecir la **cancelación de clientes (Churn)** en una empresa de telecomunicaciones.  
@@ -15,23 +15,6 @@ Se construyó un **pipeline de Machine Learning** que incluye preprocesamiento, 
   - **Random Forest** (robusto sin normalización).
 - Evaluar el rendimiento con métricas: **Accuracy, Precision, Recall, F1-score y Matriz de Confusión**.
 - Analizar la **importancia de las variables** y proponer **estrategias de retención** basadas en los resultados.
-
----
-
-## 📂 Estructura del proyecto
-
-├── datos_limpios_TelecomX_LATAM.csv # Dataset preprocesado
-├── modelo_logistica.pkl # Modelo de Regresión Logística exportado
-├── modelo_randomforest.pkl # Modelo de Random Forest exportado
-├── notebooks/ # Notebooks de análisis paso a paso
-├── src/ # Código fuente
-│ ├── preprocesamiento.py
-│ ├── entrenamiento.py
-│ ├── evaluacion.py
-│ └── exportar_modelos.py
-└── README.md
-
-
 
 ---
 
